@@ -1,0 +1,9 @@
+<template>
+    <v-img
+      src="https://controls.cl/productos/wp-content/uploads/2015/10/banner-division-industrial.jpg"
+      aspect-ratio=".1"
+      max-width="1300"
+      max-height="570"
+    >
+    </v-img>
+</template>
